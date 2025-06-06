@@ -1,0 +1,8 @@
+**/venv/
+**/.ipynb_checkpoints/
+**/__pycache__/
+coding_docs_images/
+data_collection/
+**/node_modules/
+**/.git/
+dataset/
