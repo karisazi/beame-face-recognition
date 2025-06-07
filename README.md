@@ -2,8 +2,9 @@
 
 BeaMe is the easy, flexible way to build real-time face detectors in the browser. Using your webcam and OpenCV, it detects whoever you want. Clean UI, fast results, and ready to power your next personalized face detection project.
 <p align="center">
-    <img src="beame_demo.gif" width="30%" alt="Codec demo">
+    <img src="beame_demo.gif" width="100%" alt="Codec demo">
 </p>
+
 **Live Demo:** [https://beamee.vercel.app](https://beamee.vercel.app)
 
 ## 🎯 Goal
